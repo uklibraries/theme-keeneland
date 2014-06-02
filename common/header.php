@@ -45,7 +45,7 @@
                 <?php echo link_to_home_page(theme_logo()); ?>
             </div>
             <div id="search-container">
-                <?php echo search_form(array('show_advanced' => true)); ?>
+                <?php echo search_form(array('show_advanced' => false)); ?>
             </div>
             <?php fire_plugin_hook('public_header', array('view'=>$this)); ?>
         </header>
