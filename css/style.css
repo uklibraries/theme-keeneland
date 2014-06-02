@@ -1295,10 +1295,10 @@
     background-color: #dfe2e2;
   }
   .winter a:link {
-    color: #56acba;
+    color: #183d36;
   }
   .winter a:visited {
-    color: #98c4c9;
+    color: #AA9B70;
   }
   .winter a:hover, .winter a:active {
     color: #3acacc;
@@ -1307,7 +1307,7 @@
     background-color: #fff;
   }
   .winter nav.top {
-    background-color: #56acba;
+    background-color: #183d36;
   }
   .winter nav.top li:hover a {
     color: #fff;
@@ -1319,7 +1319,7 @@
     color: #fff;
   }
   .winter nav.top ul li ul {
-    background-color: #56acba;
+    background-color: #183d36;
   }
   .winter nav.top ul li ul li > a:link, .winter nav.top ul li ul li > a:visited, .winter nav.top ul li ul li > a:active, .winter nav.top ul li ul li > a:hover {
     color: #fff;
@@ -1333,7 +1333,7 @@
   .winter .secondary-nav .current a,
   .winter .secondary-nav a.current,
   .winter .exhibit-section-nav .current a {
-    background-color: #98c4c9;
+    background-color: #AA9B70;
   }
   .winter #home #content > div {
     border-color: #4b6569;
@@ -1355,7 +1355,7 @@
     background-color: #fff;
   }
   .winter #content .pagination_previous a, .winter #content .pagination_next a {
-    background-color: #56acba;
+    background-color: #183d36;
   }
   .winter #content .pagination a:link, .winter #content .pagination a:visited {
     color: #def9ff;
@@ -1367,7 +1367,7 @@
     border-color: #dfe2e2;
   }
   .winter #content nav .pagination_list {
-    background-color: #56acba;
+    background-color: #183d36;
   }
   .winter #content .items-nav a:link, .winter #content .items-nav a:visited, .winter #content .secondary-nav a:link, .winter #content .secondary-nav a:visited, .winter #content #secondary-nav a:link, .winter #content #secondary-nav a:visited, .winter #content #outputs a:link, .winter #content #outputs a:visited, .winter #content #exhibit-child-pages a:link, .winter #content #exhibit-child-pages a:visited {
     color: #def9ff;
