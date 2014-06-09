@@ -130,8 +130,8 @@
   /* !---------- Global classes ---------- */
   .container {
     *zoom: 1;
-    max-width: 59em;
-    _width: 59em;
+    max-width: 49em;
+    _width: 49em;
     padding-left: 1em;
     padding-right: 1em;
     margin-left: auto;
