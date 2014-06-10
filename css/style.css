@@ -1186,7 +1186,7 @@
   /* !---------- Winter Styles ---------- */
   .winter body {
     background-color: #2f3e4a;
-    color: #4b6569;
+    color: #183d36;
   }
   .winter h1, .winter #site-title a {
     color: #859ca2;
@@ -1210,7 +1210,7 @@
     background-color: #fff;
   }
   .winter nav.top {
-    background-color: #183d36;
+    background-color: #4b6569;
   }
   .winter nav.top li:hover a {
     color: #fff;
