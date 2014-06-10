@@ -1249,6 +1249,7 @@
   }
   .winter #content div {
     border-color: #859ca2;
+    width: 1000px;
   }
   .winter #content > div, .winter #content #primary > div, .winter #content #sidebar > div,
   .winter #content #advanced-search-form > div, .winter #content #exhibit-pages {
