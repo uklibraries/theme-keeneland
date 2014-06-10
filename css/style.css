@@ -1210,12 +1210,7 @@
     background-color: #fff;
   }
   .winter nav.top {
-    display: block;
-    height: 39px;
-    line-height: 39px;
-    font-size: 27px;
-    color: #B2B2B2;
-    font-family: 'BebasNeueRegular';
+    background-color: #4b6569;
   }
   .winter nav.top li:hover a {
     color: #fff;
