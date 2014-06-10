@@ -1303,6 +1303,9 @@
   .winter footer p {
     color: #fff;
   }
+    .winter footer a:link {
+    color: #808080;
+  }
   .winter .exhibit-page-nav {
     background-color: #4b6569;
   }
