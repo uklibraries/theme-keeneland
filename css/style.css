@@ -1211,6 +1211,7 @@
   }
   .winter nav.top {
     background-color: #4b6569;
+    line-height: 12px;
   }
   .winter nav.top li:hover a {
     color: #fff;
