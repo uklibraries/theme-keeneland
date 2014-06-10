@@ -1216,7 +1216,7 @@
     color: #fff;
   }
   .winter nav.top a:link, .winter nav.top a:visited {
-    color: #def9ff;
+    color: #183d36;
   }
   .winter nav.top a:active, .winter nav.top a:hover {
     color: #fff;
@@ -1261,7 +1261,7 @@
     background-color: #183d36;
   }
   .winter #content .pagination a:link, .winter #content .pagination a:visited {
-    color: #def9ff;
+    color: #183d36;
   }
   .winter #content .pagination a:hover, .winter #content .pagination a:active {
     color: #fff;
@@ -1273,7 +1273,7 @@
     background-color: #183d36;
   }
   .winter #content .items-nav a:link, .winter #content .items-nav a:visited, .winter #content .secondary-nav a:link, .winter #content .secondary-nav a:visited, .winter #content #secondary-nav a:link, .winter #content #secondary-nav a:visited, .winter #content #outputs a:link, .winter #content #outputs a:visited, .winter #content #exhibit-child-pages a:link, .winter #content #exhibit-child-pages a:visited {
-    color: #def9ff;
+    color: #183d36;
   }
   .winter #content .items-nav a:hover, .winter #content .items-nav a:active, .winter #content .secondary-nav a:hover, .winter #content .secondary-nav a:active, .winter #content #secondary-nav a:hover, .winter #content #secondary-nav a:active, .winter #content #outputs a:hover, .winter #content #outputs a:active, .winter #content #exhibit-child-pages a:hover, .winter #content #exhibit-child-pages a:active {
     color: #fff;
@@ -1292,7 +1292,7 @@
     background-color: #4b6569;
   }
   .winter #search-filters li, .winter #item-filters li {
-    background-color: #def9ff;
+    background-color: #183d36;
   }
   .winter .page #content {
     border-color: #4b6569;
@@ -1310,7 +1310,7 @@
     background-color: rgba(0, 0, 0, 0.1);
   }
   .winter .exhibit-page-nav a:link, .winter .exhibit-page-nav a:visited {
-    color: #def9ff;
+    color: #183d36;
   }
   .winter .exhibit-page-nav a:hover, .winter .exhibit-page-nav a:active {
     color: #fff;
