@@ -1224,7 +1224,7 @@
     color: #fff;
   }
   .winter nav.top ul li ul {
-    background-color: #183d36;
+    background-color: #4b6569;
   }
   .winter nav.top ul li ul li > a:link, .winter nav.top ul li ul li > a:visited, .winter nav.top ul li ul li > a:active, .winter nav.top ul li ul li > a:hover {
     color: #fff;
@@ -1273,7 +1273,7 @@
     border-color: #dfe2e2;
   }
   .winter #content nav .pagination_list {
-    background-color: #183d36;
+    background-color: #4b6569;
   }
   .winter #content .items-nav a:link, .winter #content .items-nav a:visited, .winter #content .secondary-nav a:link, .winter #content .secondary-nav a:visited, .winter #content #secondary-nav a:link, .winter #content #secondary-nav a:visited, .winter #content #outputs a:link, .winter #content #outputs a:visited, .winter #content #exhibit-child-pages a:link, .winter #content #exhibit-child-pages a:visited {
     color: #183d36;
