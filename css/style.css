@@ -801,7 +801,7 @@
     padding: 0;
   }
   .items.show #primary > div {
-    border-top-width: 10px;
+    border-top-width: 5px;
     border-top-style: solid;
     -webkit-box-shadow: rgba(0, 0, 0, 0.15) 0 0 10px;
     -moz-box-shadow: rgba(0, 0, 0, 0.15) 0 0 10px;
